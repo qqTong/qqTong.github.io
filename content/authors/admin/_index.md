@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: Qianqian Tong 童倩倩
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Qianqian
+last_name: Tong
 
 # Status emoji
 status:
@@ -14,17 +14,17 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+# role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations to show in About widget
-organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+# organizations:
+  # - name: Stanford University
+  # url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include deep learning, mobile computing and programmable matter.
 
-# Interests to show in About widget
+# Interests to show in About widget 小部件
 interests:
   - Artificial Intelligence
   - Computational Linguistics
